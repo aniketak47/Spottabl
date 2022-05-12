@@ -1,0 +1,95 @@
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.logo{
+  position: absolute;
+  height: 5rem;
+  margin-left: 2.7rem;
+  
+}
+
+.logoHeading{
+  position: absolute;
+  margin-top: 0.5rem;
+  margin-left: 8.7rem;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.logoPara{
+  position: absolute;
+  margin-top: 3rem;
+  margin-left: 9rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.head{
+  padding-bottom: 3rem;
+  margin-top: 3rem;
+}
+
+
+.addDetails{
+  /* padding-top: 8rem; */
+  /* margin-left: 2rem; */
+
+  
+
+  width: 1000px;
+  padding:30px;
+	margin:70px auto;
+	background: #FFF;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+
+  
+
+}
+
+.itemList{
+  /* width: 950px;
+  margin-left:6rem; */
+
+  width: 1000px;
+  padding: auto;
+	margin:0px auto;
+	background: #FFF;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+
+}
+
+.conDisplay{
+  position:absolute;
+  margin-left: 3rem;
+  margin-top: -2.5rem;
+
+}
