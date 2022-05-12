@@ -9,7 +9,7 @@ const ContactCard = (props) => {
   return (
     <div className="item itemList">
       {/* <img className="ui avatar image" src={user} alt="user" /> */}
-        <Avatar color={Avatar.getRandomColor('sitebase', ['red', 'green', '#bec6ff'])} name={name} round={true} size={40} style={{display:"inline"}} className="ui avatar image"/>
+        <Avatar color={Avatar.getRandomColor('sitebase', ['red', 'green', '#bec6ff'])} name={name} round={true} size={40} style={{display:"inline", marginLeft: "1rem"}} className="ui avatar image"/>
       <div className="content conDisplay">
         <div className="header">{name}</div>
         <div>{email}</div>
