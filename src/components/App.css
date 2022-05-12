@@ -70,9 +70,17 @@ i.icon {
 
 }
 
+/* .itemList:first-child {
+  margin-top: 5rem;
+} */
+
 .itemList{
   /* width: 950px;
   margin-left:6rem; */
+
+  /* margin-top: 1rem; */
+
+  
 
   width: 1000px;
   padding: auto;
